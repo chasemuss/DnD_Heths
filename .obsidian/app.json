@@ -1,0 +1,27 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./_Attachments",
+  "userIgnoreFilters": [
+    "_Templates/",
+    "Journal/Old Journal/",
+    "Bible Study/To Be Processed/",
+    "_Attachments/",
+    "zOld Vaults/",
+    "Bible Study/NET Bible for Obsidian/"
+  ],
+  "propertiesInDocument": "source",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "livePreview": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

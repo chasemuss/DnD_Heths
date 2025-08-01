@@ -1,0 +1,188 @@
+/* Ultron Theme - inspired by Marvel Comics' Ultron */
+
+/* Root Colors */
+:root {
+    --background-primary: #0f0f10;       /* near-black */
+    --background-secondary: #1c1c1e;     /* dark gray */
+    --background-tertiary: #2b2b2e;      /* lighter gray for contrasts */
+    --text-normal: #e0e0e0;              /* light gray */
+    --text-muted: #a0a0a0;               /* muted text */
+    --text-accent: #ff2d55;              /* sinister red/pink accent */
+    --text-on-accent: #ffffff;
+    --interactive-accent: #ff2d55;       /* red accent for links, buttons */
+    --interactive-accent-hover: #ff445e;
+    --h1-color: #ff2d55;
+    --h2-color: #ff526e;
+    --h3-color: #ff7385;
+    --scrollbar-bg: #202022;
+    --scrollbar-thumb: #ff2d55;
+    --blockquote-border-color: #ff2d55;
+}
+
+/* Base Background and Text */
+body {
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+}
+
+/* Links */
+a {
+    color: var(--interactive-accent);
+}
+a:hover {
+    color: var(--interactive-accent-hover);
+}
+
+/* Headers */
+h1, .cm-header-1 {
+    color: var(--h1-color);
+}
+h2, .cm-header-2 {
+    color: var(--h2-color);
+}
+h3, .cm-header-3 {
+    color: var(--h3-color);
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #18181a;
+    color: #ff2d55;
+    border: 1px solid #2b2b2e;
+    border-radius: 6px;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid var(--blockquote-border-color);
+    padding-left: 1em;
+    color: var(--text-muted);
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: var(--scrollbar-bg);
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb);
+    border-radius: 10px;
+}
+
+/* Selection */
+::selection {
+    background: #ff2d55;
+    color: #ffffff;
+}
+
+/* Task Checkboxes */
+input[type="checkbox"] {
+    accent-color: var(--interactive-accent);
+}
+
+/* Tags */
+.cm-s-obsidian span.cm-hashtag {
+    color: var(--interactive-accent);
+    font-weight: bold;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #333;
+    padding: 0.5em;
+}
+th {
+    background-color: #1c1c1e;
+    color: var(--text-accent);
+}
+
+/* UI Panels */
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split,
+.workspace-tabs {
+    background-color: var(--background-secondary);
+    border-right: 1px solid #2b2b2e;
+}
+
+/* Graph View (if used) */
+.theme-dark .graph-view.color-fill {
+    color: var(--interactive-accent);
+}
+.theme-dark .graph-view.color-line {
+    color: #ff2d5544;
+}
+.theme-dark .graph-view.color-text {
+    color: var(--text-normal);
+}
+
+/* Ultron-styled Callouts */
+.callout {
+    border-left: 4px solid var(--interactive-accent);
+    background-color: #1a1a1c;
+    color: var(--text-normal);
+    padding: 0.75em;
+    margin: 1em 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ff2d5533;
+}
+.callout-title {
+    font-weight: bold;
+    color: var(--interactive-accent);
+}
+.callout-icon {
+    color: var(--interactive-accent);
+}
+
+/* Graph View Background + Node Colors */
+.theme-dark .graph-view {
+    background-color: #0f0f10 !important;
+}
+
+.graph-view.color-fill {
+    color: #ff2d55;
+    opacity: 0.9;
+}
+
+.graph-view.color-line {
+    color: #ff2d5544;
+}
+
+.graph-view.color-text {
+    color: #e0e0e0;
+}
+
+.graph-view .node.is-tag {
+    color: #ff2d55;
+    font-weight: bold;
+}
+
+.graph-view .node.is-attachment {
+    color: #ff526e;
+}
+
+.graph-view .node.is-unresolved {
+    color: #ff7385;
+    opacity: 0.5;
+}
+
+/* YAML frontmatter block */
+.frontmatter-container {
+    background-color: #1c1c1e;
+    color: #e0e0e0;
+    padding: 1em;
+    border-left: 4px solid #ff2d55;
+    border-radius: 8px;
+    margin-bottom: 1.5em;
+    font-family: monospace;
+}
+.frontmatter-container .tag {
+    background-color: #ff2d55;
+    color: #ffffff;
+    padding: 2px 6px;
+    border-radius: 6px;
+}

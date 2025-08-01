@@ -1,0 +1,321 @@
+/* Cosmic Dust Theme for Obsidian */
+
+/* Core Variables */
+.theme-dark {
+  --background-primary: #1A1B26;        /* Deep midnight blue */
+  --background-secondary: #2F3349;      /* Soft slate */
+  --text-normal: #D9E0EE;               /* Pale moonlight */
+  --text-accent: #F28FAD;               /* Cosmic pink */
+  --text-muted: #6C728C;                /* Dusty gray */
+  --interactive-accent: #F28FAD;        /* Pink for hover/active */
+  --link-color: #89DCEB;                /* Sky cyan */
+  --border-color: #2F3349;              /* Slate borders */
+  --code-background: #252737;           /* Slightly lighter code block */
+  --modal-background: #252737;          /* Modal backdrop */
+  --highlight-background: rgba(242, 143, 173, 0.2); /* Pink highlight */
+}
+
+/* Global */
+body {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Editor */
+.workspace-leaf {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.markdown-source-view,
+.markdown-preview-view {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
+/* Text Formatting */
+strong {
+  color: var(--text-normal);
+  font-weight: 700;
+}
+
+em {
+  color: var(--text-normal);
+}
+
+blockquote {
+  border-left: 4px solid var(--text-accent);
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  padding: 10px 15px;
+  margin: 1em 0;
+}
+
+/* Links */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--interactive-accent);
+  text-decoration: underline;
+}
+
+/* Code */
+code,
+pre,
+.markdown-source-view .cm-s-obsidian .CodeMirror-line {
+  background-color: var(--code-background);
+  color: #D9E0EE;
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+pre {
+  padding: 10px;
+}
+
+/* Frontmatter */
+.cm-s-obsidian .cm-hmd-frontmatter {
+  color: #D9E0EE;
+  padding: 4px;
+}
+
+.cm-s-obsidian .cm-hmd-frontmatter .cm-string,
+.cm-s-obsidian .cm-hmd-frontmatter .cm-attribute {
+  color: #D9E0EE;
+}
+
+/* Editor Elements */
+.cm-s-obsidian .CodeMirror-activeline {
+  background-color: var(--highlight-background);
+}
+
+.CodeMirror-selected {
+  background-color: rgba(137, 220, 235, 0.3);
+}
+
+.cm-s-obsidian .cm-comment {
+  color: var(--text-muted);
+}
+
+.cm-s-obsidian .cm-link {
+  color: var(--link-color);
+}
+
+.cm-s-obsidian .cm-tag {
+  color: var(--text-accent);
+}
+
+/* Sidebars */
+.nav-file-title, .nav-folder-title {
+  color: var(--text-normal);
+}
+
+.nav-file-title:hover, .nav-folder-title:hover {
+  color: var(--interactive-accent);
+  background-color: var(--background-secondary);
+}
+
+.nav-file-title-content.is-active {
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+  background-color: var(--background-secondary);
+}
+
+/* Tabs */
+.workspace-tab-header {
+  color: var(--text-normal);
+  font-weight: 500;
+  background-color: var(--background-primary);
+}
+
+.workspace-tab-header:hover,
+.workspace-tab-header.is-active {
+  color: var(--text-accent);
+}
+
+.workspace-tab-header-inner {
+  border-bottom: 2px solid transparent;
+}
+
+.workspace-tab-header.is-active .workspace-tab-header-inner {
+  border-bottom: 2px solid var(--text-accent);
+}
+
+/* Callouts */
+.callout {
+  background-color: var(--background-secondary);
+  border-left: 4px solid var(--text-accent);
+  color: var(--text-normal);
+  padding: 10px;
+  border-radius: 4px;
+  margin: 1em 0;
+}
+
+.callout-title {
+  color: var(--text-accent);
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.callout-content {
+  color: var(--text-normal);
+}
+
+/* Graph View */
+.graph-view.color-fill {
+  color: #D9E0EE;                      /* Nodes */
+}
+
+.graph-view.color-fill-tag {
+  color: var(--text-accent);           /* Tags in pink */
+}
+
+.graph-view.color-line {
+  color: var(--text-muted);            /* Connection lines */
+}
+
+.graph-view.color-background {
+  background-color: var(--background-primary);
+}
+
+/* Settings */
+.modal {
+  background-color: var(--modal-background);
+  color: var(--text-normal);
+  border: 1px solid var(--border-color);
+}
+
+.modal-title {
+  color: var(--text-accent);
+}
+
+.setting-item {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.setting-item-name {
+  color: var(--text-normal);
+}
+
+.setting-item-description {
+  color: var(--text-muted);
+}
+
+/* Buttons */
+.button, .clickable-icon {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border-radius: 4px;
+  border: none;
+}
+
+.button:hover, .clickable-icon:hover {
+  background-color: var(--interactive-accent);
+  color: #1A1B26;
+}
+
+/* Inputs */
+input[type="text"],
+input[type="search"],
+textarea {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+
+input[type="text"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+  border-color: var(--text-accent);
+  outline: none;
+}
+
+/* Tooltips */
+.tooltip {
+  background-color: var(--modal-background);
+  color: var(--text-normal);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-accent);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-primary);
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid var(--border-color);
+  padding: 8px;
+  color: var(--text-normal);
+}
+
+th {
+  background-color: var(--background-secondary);
+  color: var(--text-accent);
+}
+
+/* Status Bar */
+.status-bar {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border-top: 1px solid var(--border-color);
+}
+
+/* Popovers (e.g., link suggestions) */
+.suggestion-item {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+}
+
+.suggestion-item.is-selected {
+  background-color: var(--interactive-accent);
+  color: #1A1B26;
+}
+
+/* Checkboxes */
+.checkbox-container {
+  background-color: var(--background-secondary);
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--text-accent);
+}
+
+/* Tags in Text */
+.tag {
+  background-color: var(--background-secondary);
+  color: var(--text-accent);
+  border-radius: 12px;
+  padding: 2px 6px;
+}
