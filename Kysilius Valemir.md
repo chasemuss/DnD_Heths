@@ -21,6 +21,36 @@ Kysilius awkwardly walked towards the room, not sure what to make of the hall of
 
 ---
 
+As he went on missions and proved his capability to destroy demons, he took up the following oath
+
+> Before flame, I do not falter. Before the abyss, I draw my blade.
+> 
+> I swear this oath by steel and soul:
+> 
+> I shall not bargain with devils, nor heed the lies of demons.
+> Their words are poison, their promises a snare. I will meet them with silence and a sharpened edge.
+>
+> I shall bring conquest to chaos and death to the damned.
+> Not for glory. Not for vengeance. But because it must be done.
+>
+> I shall be the bulwark where infernal fire breaks.
+> My will shall be iron. My purpose unbending. My presence a cage.
+>
+> I shall not flinch before darkness, nor falter in despair.
+> Even should the heavens retreat, I will stand, the last sentinel between this world and the pit.
+>
+> I shall chain my wrath and master my strength.
+> For only through control can evil be bound. And only through order can evil be destroyed.
+>
+> This I vow:  
+> That no fiend shall pass where I tread.  
+> That no pact shall survive where I strike.  
+> That no corruption shall linger where I burn the ground clean.
+>
+> By law, by flame, by conquest—so do I bind myself. So do I become a Fiendslayer
+
+---
+
 After several years of missions, Kysilius grew in power, awakening his divine lineage after killing some shadow demons. Other members of the guild were astonished to see this, saying that while they knew his father had a spark of divinity, they didn't think it was hereditary and that the ones who sought out holiness as a means to combat the fiends gained it through pacts with celestials. They recommended that he continue to train this talent. 
 
 He continued to work up the ranks through the guild, from Initiate -> Adept -> Sentinel. Upon receiving this title, Kaela said that he has to go into the world and achieve greatness to earn the next rank of Commander to prove that he was a good fit for the role and truly good enough to be given the responsibilities. They gave him the funding he needed and sent him to [[location of the rest of the party]] because they had heard [[plot point]] was there. 
