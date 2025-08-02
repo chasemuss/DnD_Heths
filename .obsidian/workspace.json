@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kysilius Valemir.md",
+                "file": "_Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kysilius Valemir"
+              "title": "_Homepage"
             }
           }
         ]
@@ -186,14 +186,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Hekass Fext.md",
     "_Homepage.md",
-    "Fiendslayers.md",
+    "Bennu Horus.md",
+    "_Attachments/Kysilius Valemir.jpeg",
+    "Sculdarian Longclaw.md",
     "Kysilius Valemir.md",
+    "The Front.md",
+    "Barak.md",
+    "Reme.md",
+    "Fiendslayers.md",
+    "Kaela Duskspear.md",
+    "_Templates/Character Template.md",
+    "_Templates/Base Template.md",
     "_Attachments/Kysilius Devilhunter.jpeg",
     "_Attachments",
-    "Kaela Duskspear.md",
-    "_Templates/Base Template.md",
-    "_Templates/Character Template.md",
     "_Templates",
     "DnD_Heths/Kysilius.md",
     "DnD_Heths",
@@ -209,12 +216,6 @@
     "Recipes/Chimichurri.md",
     "Journal/2025-07-25.md",
     "zOld Vaults/Obsidian/Food/Recipes/Sauces/Chimichurri.md",
-    "Home Economics/Flea Treatment Steps.md",
-    "Journal/2025-07-23.md",
-    "Journal/2025-07-22.md",
-    "Journal/2025-07-20.md",
-    "Home Economics/Restaurant Orders/Shipleys.md",
-    "Journal/2025-07-19.md",
     "Factorio Production Chart.canvas",
     "Untitled.base",
     "2025 Comicpalooza Tickets.png",
@@ -234,7 +235,6 @@
     "Untitled.canvas",
     "The Alex Jones is Always Right Chart.canvas",
     "_Attachments/Ureni, the Song Unending.jpg",
-    "_Attachments/Pasted image 20250319080545.jpg",
     "Critical Thinking/Leah Anxiety Causes.canvas",
     "The Grand Conspiracy.canvas",
     "Tech Notes/AWS Certification Tree.canvas",

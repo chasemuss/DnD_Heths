@@ -1,9 +1,10 @@
 ---
-title: Kysilius
+title: Kysilius Valemir
 aliases:
  - Kysilius
 tags: 
  - Character
+ - Player
 status: Alive
 ---
 ![[Kysilius Devilhunter.jpeg|200]]
@@ -11,7 +12,7 @@ status: Alive
 
 [Character Sheet](https://www.dndbeyond.com/characters/150170811)
 
-Kysilius grew up in [[name of bastion]] to a middle class family. One day, while Kysilius was attending to his mother's store, his father, a renowned fighter & [[Fiendslayers|Fiendslayer]], was killed on a mission to the Abyss to stop [[Belmordak, the Broken Choir]] from gathering enough strength to launch an attack on the Prime Material Plane. He died to protect his comrades from annihilation. The survivors escaped back home with nothing more than his father's cape, face mask, and dying wish, "Allow Kysilius to join." [[Kaela Duskspear|Kaela]] was the one who promised to fulfill this request. She travelled to the shop, cape & mask in hand, and delivered it to Kysilius, saying that if he ever aspired to be more, go to the guildhall for the Fiendslayers. To gain entrance, just mention his last name, Valemir, and he'll gain the rank of Initiate. 
+Kysilius grew up in [[Reme]] to a middle class family. One day, while Kysilius was attending to his mother's store, his father, a renowned fighter & [[Fiendslayers|Fiendslayer]], was killed on a mission to the Abyss to stop [[Belmordak, the Broken Choir]] from gathering enough strength to launch an attack on the Prime Material Plane. He died to protect his comrades from annihilation. The survivors escaped back home with nothing more than his father's cape, face mask, and dying wish, "Allow Kysilius to join." [[Kaela Duskspear|Kaela]] was the one who promised to fulfill this request. She travelled to the shop, cape & mask in hand, and delivered it to Kysilius, saying that if he ever aspired to be more, go to the guildhall for the Fiendslayers. To gain entrance, just mention his last name, Valemir, and he'll gain the rank of Initiate. 
 
 After speaking with his mom, and being reassured by her that she'll be fine and can manage the store, he ran to the guildhall, eager to take up his father's mantle and live up to his legacy. The way there, he remembered all the times his father took him into the alley by their house and trained him how to fight with a greatsword and glaive. He rapped urgently on the door, and a peephole opened. He nearly shouted out his surname, and the door swung open. Inside, there were men and women armored and armed to the teeth. They were drinking and eating. A few were fighting in the corner, claiming to be the stronger. Upon entering, the whole hall seemed to freeze. The air was so quiet, a mouse was heard squeaking while he dragged some cheese into the wall. Each member raised a fist in reverence to Kysilius' father, and the man who opened the door whispered to him, "You should go see Kaela, she's in that room" and pointed to a room just off the main guildhall. 
 

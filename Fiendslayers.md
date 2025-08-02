@@ -3,7 +3,7 @@ title: Fiendslayers
 aliases:
  - Fiendslayer
 tags: 
- - 
+ - Organization
 ---
 
 # Notes
