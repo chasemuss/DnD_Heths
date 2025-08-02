@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kysilius Valemir.md",
+                "file": "Fiendslayers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kysilius Valemir"
+              "title": "Outline of Fiendslayers"
             }
           },
           {
@@ -186,11 +186,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Homepage.md",
     "Fiendslayers.md",
     "Kysilius Valemir.md",
     "_Attachments/Kysilius Devilhunter.jpeg",
     "_Attachments",
-    "_Homepage.md",
     "Kaela Duskspear.md",
     "_Templates/Base Template.md",
     "_Templates/Character Template.md",

@@ -6,7 +6,11 @@
 > What to expect from me I have been a dm for 5 years I love putting players story into the plot I love to homebrew for player if they are interested Dm me if you are interested
 
 # Characters
+### Player Characters
 - [[Kysilius Valemir]]
+
+### Non-Player Characters
+- [[Kaela Duskspear]]
 
 # Guilds
 - [[Fiendslayers]]
